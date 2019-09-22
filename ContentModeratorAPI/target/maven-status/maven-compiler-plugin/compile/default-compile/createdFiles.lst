@@ -1,0 +1,9 @@
+com\target\contentModerator\ContentModeratorApiApplication.class
+com\target\contentModerator\model\UserContent.class
+com\target\contentModerator\controller\UserContentController.class
+com\target\contentModerator\model\ReviewResult.class
+com\target\contentModerator\repository\BlacklistContentRepository.class
+com\target\contentModerator\repository\BlacklistContentRepositoryImpl.class
+com\target\contentModerator\service\UserContentReviewService.class
+com\target\contentModerator\model\BlacklistContent.class
+com\target\contentModerator\service\BlacklistContentService.class
