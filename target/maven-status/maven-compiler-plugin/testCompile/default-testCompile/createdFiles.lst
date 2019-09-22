@@ -1,0 +1,4 @@
+com\target\contentModerator\service\UserContentReviewServiceTest.class
+com\target\contentModerator\service\BlacklistContentServiceTest.class
+com\target\contentModerator\ContentModeratorApiApplicationTests.class
+com\target\contentModerator\utils\TestDataUtil.class
