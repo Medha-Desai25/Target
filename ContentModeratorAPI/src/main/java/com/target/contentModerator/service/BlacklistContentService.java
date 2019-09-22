@@ -36,11 +36,6 @@ public class BlacklistContentService {
 		
 	}
 
-	public List<String> getSupportedLanguages() throws IOException {
-		return blacklistContentRepositoryImpl.findDistinctLanguages();
-		
-	}
-	
 	
 	
 }
